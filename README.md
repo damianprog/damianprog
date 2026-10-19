@@ -1,8 +1,8 @@
 # Hi, I'm Damian 👋
 
-Frontend developer from Poznań, Poland, focused on **React, TypeScript and Next.js**.
-I have ~3 years of commercial experience (Vue.js, Ruby on Rails, ServiceNow),
-and I'm now looking for a mid-level frontend role in a product team.
+Full-stack developer from Poznań, Poland, working with **TypeScript across the stack: React, Next.js, Node.js and PostgreSQL**.
+I have ~3 years of commercial experience, including 2 years full-stack (Vue.js + Ruby on Rails),
+and I'm now looking for a mid-level full-stack role in a product team.
 
 ## What I'm building
 
@@ -22,7 +22,9 @@ React · TypeScript · Vite · Material UI · Firebase · React Router
 
 ## Stack
 
-`TypeScript` `React` `Next.js` `Vue.js` `Node.js` `Prisma` `PostgreSQL` `GraphQL` `Tailwind CSS` `Git`
+**Frontend:** `TypeScript` `React` `Next.js` `Vue.js` `Tailwind CSS` `Zustand`
+**Backend:** `Node.js` `Prisma` `PostgreSQL` `GraphQL` `REST` `Ruby on Rails` `Auth.js`
+**Tools:** `Git` `Vercel`
 
 ## Contact
 
