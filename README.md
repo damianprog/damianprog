@@ -23,7 +23,9 @@ React · TypeScript · Vite · Material UI · Firebase · React Router
 ## Stack
 
 **Frontend:** `TypeScript` `React` `Next.js` `Vue.js` `Tailwind CSS` `Zustand`
+
 **Backend:** `Node.js` `Prisma` `PostgreSQL` `GraphQL` `REST` `Ruby on Rails` `Auth.js`
+
 **Tools:** `Git` `Vercel`
 
 ## Contact
