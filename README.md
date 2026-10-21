@@ -2,7 +2,7 @@
 
 Full-stack developer from Poznań, Poland, working with **TypeScript across the stack: React, Next.js, Node.js and PostgreSQL**.
 I have ~3 years of commercial experience, including 2 years full-stack (Vue.js + Ruby on Rails),
-and I'm now looking for a mid-level full-stack role in a product team.
+and I'm now looking for a full-stack role in a product team.
 
 ## What I'm building
 
